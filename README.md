@@ -17,7 +17,7 @@ Sou de Santa Catarina, Brasil. Trabalhei por mais de 11 anos no Banco do Brasil 
 ## Curiosidades:
 - Se você quiser falar sobre investimentos no mercado financeiro esta é uma área que eu domino bastante.
 - Tenho uma veia artística, já fiz muito teatro (interpretava e escrevia) e até pintava quadros, inclusive. Eram hobbies que eu curtia bastante.
-- Tenho uma esposa que amo muito e uma bebezinha chamada Sofie, que é um amor. Eu não paro babar quando penso nela. Desculpe se não pareceu profissional, mas sou pai de primeira viagem e ainda não sei como me comportar em relação a isso. kkk
+- Tenho uma esposa que amo muito e uma bebezinha chamada Sofie, que é um amor. Eu não paro de babar quando penso nela. Desculpe se não pareceu profissional, mas sou pai de primeira viagem e ainda não sei como me comportar em relação a isso. kkk
 
 ## Meu linkedIn:
 https://www.linkedin.com/in/daniel-mateus-satiro/
