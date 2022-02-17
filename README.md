@@ -21,3 +21,6 @@ Sou de Santa Catarina, Brasil. Trabalhei por mais de 11 anos no Banco do Brasil 
 
 ## Meu linkedIn:
 https://www.linkedin.com/in/daniel-mateus-satiro/
+
+## Meu codewars, no qual treino um pouco da minha lógica:
+https://www.codewars.com/users/DanielMSatiro/stats
