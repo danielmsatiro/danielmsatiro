@@ -15,7 +15,7 @@
 Sou de Santa Catarina, Brasil. Trabalhei por mais de 11 anos no Banco do Brasil e resolvi mudar de carreira. Isso mesmo, fui lá, pedi as contas e resolvi estudar tecnologia. 😄 E quanto mais aprendo sobre tecnologia, mais tenho certeza de que escolhi o caminho certo. Raciocínio lógico é a minha praia e comunicação é a minha principal soft skill.
 
 ## Curiosidades:
-- Se você quiser falar sobre investimentos no mercado financeiro esta é uma área que eu domino bastante.
+- Se você quiser falar sobre investimentos no mercado financeiro esta é uma área que eu domino bastante. Cheguei a tirar por breve período um registro na CVM como consultor de valores mobiliários, após ter obtido uma certificação do mercado financeiro (CGA).
 - Tenho uma veia artística, já fiz muito teatro (interpretava e escrevia) e até pintava quadros, inclusive. Eram hobbies que eu curtia bastante.
 - Tenho uma esposa que amo muito e uma bebezinha chamada Sofie, que é um amor. Eu não paro de babar quando penso nela. Desculpe se não pareceu profissional, mas sou pai de primeira viagem e ainda não sei como me comportar em relação a isso. kkk
 
