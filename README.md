@@ -3,7 +3,8 @@
 
 ## O que estou fazendo agora?
 - Estou estudando atualmente na Kenzie Academy Brasil e meu objetivo é tornar-me desenvolvedor Full Stack.
-- Já concluí o Front End e estou estudando Back End (Mais especificamente python no momento).
+- Já concluí o Front End e no Back End já desenvolvo com Python, Flask-SQLAlchemy, Postgres, Postgis, MongoDB, pytest, dentre outras tecnologias.
+- Atualmente estou estudando Node.js.
 
 ### Tecnologias que já tive ou estou tendo contato:
 <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
