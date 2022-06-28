@@ -3,7 +3,7 @@
 
 ## O que estou fazendo agora?
 - Estou em vias de conclusão de minha formação como desenvolvedor Full Stack na Kenzie Academy Brasil.
-- Trabalho com javascript, typescript, react, python, nodeJS, flask-SQLAlchemy, postgreSQL, postgis, MongoDB, entre outras tecnologias.
+- Trabalho com javascript, typescript, react, python, nodeJS, flask-SQLAlchemy, Django, postgreSQL, postgis, MongoDB, entre outras tecnologias.
 - Realizo testes unitários e de integração com pytest, jest e cypress, com conhecimento básico de cumcumber.
 - Possuo conhecimento básico de MQL5.
 - Tenho familiaridade no uso de dockers.
