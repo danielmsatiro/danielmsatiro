@@ -5,7 +5,6 @@
 - Estou em vias de conclusão de minha formação como desenvolvedor Full Stack na Kenzie Academy Brasil.
 - Trabalho com javascript, typescript, react, python, nodeJS, flask-SQLAlchemy, Django, postgreSQL, postgis, MongoDB, entre outras tecnologias.
 - Realizo testes unitários e de integração com pytest, jest e cypress, com conhecimento básico de cumcumber.
-- Possuo conhecimento básico de MQL5.
 - Tenho familiaridade no uso de dockers.
 
 ### Tecnologias que já tive ou estou tendo contato:
@@ -22,7 +21,7 @@
 
 
 ## Da onde venho?
-Sou de Santa Catarina, Brasil. Trabalhei por mais de 11 anos no Banco do Brasil e resolvi mudar de carreira. Isso mesmo, fui lá, pedi as contas e resolvi estudar tecnologia. 😄 E quanto mais aprendo sobre tecnologia, mais tenho certeza de que escolhi o caminho certo. Raciocínio lógico é a minha praia e comunicação é a minha principal soft skill.
+Sou de Santa Catarina, Brasil. Trabalhei por mais de 11 anos no Banco do Brasil e resolvi mudar de carreira. Raciocínio lógico é a minha praia e comunicação é a minha principal soft skill.
 
 ## Curiosidades:
 - Se você quiser falar sobre investimentos no mercado financeiro esta é uma área que eu domino bastante. Cheguei a tirar por breve período um registro na CVM como consultor de valores mobiliários, após ter obtido uma certificação do mercado financeiro (CGA).
